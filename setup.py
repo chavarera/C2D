@@ -16,12 +16,8 @@ setuptools.setup(
     classifiers=[
         "Natural Language :: English",
         "Programming Language :: Python :: 3.6",
-        "License :: MIT License",
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.6',
     keywords=["c2d", "config", "config-parser", "config-reader"],
-    license="MIT License"
-
-
 )
